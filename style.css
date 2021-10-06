@@ -136,14 +136,6 @@ button {
   justify-content: center;  
 }
 
-.attribution {
-   font-size: 11px;
-   text-align: center;
-}
-.attribution a { 
-  color: hsl(228, 45%, 44%);
-}
-
 @media (min-width: 768px) {
   .bg_image {
     background: url('./images/pattern-background-desktop.svg') no-repeat center/cover;
