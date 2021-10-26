@@ -63,6 +63,8 @@ button {
   background-color: transparent;
   color: var(--bright-blue);
   text-decoration: underline;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
 }
 
 .btn-primary {
@@ -70,6 +72,8 @@ button {
   color: #fff;
   padding: 10px;
   margin-bottom: 10px;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
 }
 
 .btn-change:hover,
@@ -80,6 +84,8 @@ button {
 .btn-secondary {
   background-color: transparent;
   color: var(--desaturated-blue);
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
 }
 
 .btn-secondary:hover {
