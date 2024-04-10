@@ -6,4 +6,4 @@ https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj
 This is the preview I made:
 ![](FinishedPreview.png)
 
-Live: https://zer0fr0st93.github.io/Order-Summary-Component/
+Live: https://billgeorgop93.github.io/Order-Summary-Component/
